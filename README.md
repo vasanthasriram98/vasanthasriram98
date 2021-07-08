@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with Internships
 - 💬 Ask me about C and Java basics
 - 📫 How to reach me: linkedin.com/in/vasantha-s-33311418b 
-- 😄 Pronouns: she
 
 <!--
 **vasanthasriram98/vasanthasriram98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
