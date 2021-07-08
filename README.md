@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning Python and Web development.
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with Internships
